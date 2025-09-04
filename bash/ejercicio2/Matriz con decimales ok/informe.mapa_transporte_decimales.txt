@@ -1,0 +1,25 @@
+## Informe de análisis de red de transporte
+**Camino más corto: entre Estación 1 y 2:**
+**Tiempo total:** 10.30 minutos
+**Ruta:** 1 -> 2
+
+**Camino más corto: entre Estación 1 y 3:**
+**Tiempo total:** 13.35 minutos
+**Ruta:** 1 -> 4 -> 3
+
+**Camino más corto: entre Estación 1 y 4:**
+**Tiempo total:** 5.35 minutos
+**Ruta:** 1 -> 4
+
+**Camino más corto: entre Estación 2 y 3:**
+**Tiempo total:** 4.00 minutos
+**Ruta:** 2 -> 3
+
+**Camino más corto: entre Estación 2 y 4:**
+**Tiempo total:** 12.00 minutos
+**Ruta:** 2 -> 3 -> 4
+
+**Camino más corto: entre Estación 3 y 4:**
+**Tiempo total:** 8.00 minutos
+**Ruta:** 3 -> 4
+
