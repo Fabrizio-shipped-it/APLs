@@ -1,0 +1,2 @@
+password = "contrasupersecreta2025"
+API_KEY = "$superapikey$"

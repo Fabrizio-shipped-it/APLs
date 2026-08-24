@@ -1,0 +1,4 @@
+## Informe de análisis de red de transporte
+**Camino más corto: entre Estación 1 y Estación 6:**
+**Tiempo total:** 11 minutos
+**Ruta:** 1 -> 3 -> 6
